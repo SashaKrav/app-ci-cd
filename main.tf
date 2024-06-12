@@ -61,5 +61,4 @@ resource "aws_security_group" "developer" {
     cidr_blocks      = ["0.0.0.0/0"]
     ipv6_cidr_blocks = ["::/0"]
   }
-
 }
