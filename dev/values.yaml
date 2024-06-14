@@ -24,4 +24,4 @@ ingress:
   tls:
    - secretName: dev-artemis-tls
      hosts:
-       - dev-artemis.projectxconsulting.net
+       - dev-artemis.kravcov4k.com
