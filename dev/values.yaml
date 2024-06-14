@@ -17,7 +17,7 @@ ingress:
       cert-manager.io/cluster-issuer: letsencrypt-prod
       acme.cert-manager.io/http01-edit-in-place: "true"
   hosts:
-    - host: dev-artemis.projectxconsulting.net
+    - host: dev-artemis.kravcov4k.com
       paths:
         - path: /
           pathType: ImplementationSpecific
